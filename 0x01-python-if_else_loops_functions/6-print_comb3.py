@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 # Author - Aymen kenway
 
 for digit1 in range(0, 10):
